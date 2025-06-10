@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorr-i
 - 👀 I’m interested in Data & Analytics
-- 🌱 I’m currently learning SAP Datasphere and CI/CD pipelines 
+- 🌱 I’m currently working as a Data Engineer
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/carvalho-igor/)
 - 😄 Pronouns: he/him/his
 
